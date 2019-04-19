@@ -1,8 +1,9 @@
-Hosted on: https://refresher-test.herokuapp.com/
+###Hosted on: 
+https://refresher-test.herokuapp.com/
 
-Tutorial: https://medium.com/jeremy-gottfrieds-tech-blog/tutorial-how-to-deploy-a-production-react-app-to-heroku-c4831dfcfa08
+[Tutorial](https://medium.com/jeremy-gottfrieds-tech-blog/tutorial-how-to-deploy-a-production-react-app-to-heroku-c4831dfcfa08)
 
-Adding existing project to Github using command line: https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line
+[Adding existing project to Github using command line](https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
