@@ -1,5 +1,7 @@
-### Hosted on: 
+## Hosted on: 
 https://refresher-test.herokuapp.com/
+
+### Resources
 
 [Tutorial](https://medium.com/jeremy-gottfrieds-tech-blog/tutorial-how-to-deploy-a-production-react-app-to-heroku-c4831dfcfa08)
 
