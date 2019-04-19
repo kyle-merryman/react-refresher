@@ -9,6 +9,8 @@ https://refresher-test.herokuapp.com/
 
 [Manually update app after deployed to Heroku](https://f-a.nz/dev/update-deploy-to-heroku-app/)
 
+[Favicon converter](https://www.favicon-generator.org/)
+
 ------------------------------------------------------------------------------------------------------------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
